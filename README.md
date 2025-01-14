@@ -10,7 +10,7 @@
 - ‍🎓 Bacharel em Sistemas de Informação - UNIESP
 - ‍💻 Apaixonado por tecnologia
 - 🌱 Sempre em busca de conhecimento, e disposto a aprender
-- 🐞 Entusiasta de teste de software e automação de testes
+- 🐞 Analista de testes automatizados
  
 ### Onde me encontrar:
 
